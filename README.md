@@ -7,10 +7,10 @@
 	<h1>Book Finder Application</h1>
     <img src="https://img.shields.io/badge/Book%20Finder%20App-React%20%7C%20Tailwind%20CSS%20%7C%20Open%20Library%20API-blueviolet?style=for-the-badge&logo=react" />
 	<p>
-		<a name="stars"><img src="https://img.shields.io/github/stars/ChinmayKaitade/30Days-JavaScript-Challenge?style=for-the-badge"></a>
-		<a name="forks"><img src="https://img.shields.io/github/forks/ChinmayKaitade/30Days-JavaScript-Challenge?logoColor=green&style=for-the-badge"></a>
-		<a name="contributions"><img src="https://img.shields.io/github/contributors/ChinmayKaitade/30Days-JavaScript-Challenge?logoColor=green&style=for-the-badge"></a>
-		<a name="license"><img src="https://img.shields.io/github/license/ChinmayKaitade/30Days-JavaScript-Challenge?style=for-the-badge"></a>
+		<a name="stars"><img src="https://img.shields.io/github/stars/ChinmayKaitade/Book-Finder-Application-iNeuron?style=for-the-badge"></a>
+		<a name="forks"><img src="https://img.shields.io/github/forks/ChinmayKaitade/Book-Finder-Application-iNeuron?logoColor=green&style=for-the-badge"></a>
+		<a name="contributions"><img src="https://img.shields.io/github/contributors/ChinmayKaitade/Book-Finder-Application-iNeuron?logoColor=green&style=for-the-badge"></a>
+		<a name="license"><img src="https://img.shields.io/github/license/ChinmayKaitade/Book-Finder-Application-iNeuron?style=for-the-badge"></a>
 	</p>
 	<h4>Show Your Support By Giving a ⭐ to this Repository</h4>
 </div>
@@ -119,15 +119,11 @@ This application uses the **Open Library API** to fetch book details.
 
 ---
 
-## 🤝 Contributors 
+## 🤝 Contributors
 
-Want to improve this project? Follow these steps:
+[![All Contributors](https://img.shields.io/github/all-contributors/ChinmayKaitade/Book-Finder-Application-iNeuron?color=ee8449&style=flat-square)](#contributors)
 
-1. **Fork** this repository.
-2. **Create** a new branch (`git checkout -b feature-name`).
-3. **Make** your changes and commit (`git commit -m "Added a new feature"`).
-4. **Push** to the branch (`git push origin feature-name`).
-5. **Open** a **Pull Request**.
+We Welcome Contributions! We are grateful for the valuable contributions from our community. Please See Our [CONTRIBUTING.md](CONTRIBUTING.md) for more Details.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -176,5 +172,4 @@ Want to improve this project? Follow these steps:
 <a href="https://www.instagram.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://twitter.com/your-username" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-
 </p>
