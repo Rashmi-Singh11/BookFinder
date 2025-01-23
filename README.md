@@ -140,6 +140,20 @@ Want to improve this project? Follow these steps:
 
 ---
 
+## ⭐ Stargazers
+
+🌟 Thank you for starring our project! Your support means a lot and helps us continue improving." Feel free to adjust it to match your tone and style!
+
+[![Stargazers for @ChinmayKaitade/Book-Finder-Application-iNeuron](https://reporoster.com/stars/ChinmayKaitade/Book-Finder-Application-iNeuron)](https://github.com/ChinmayKaitade/Book-Finder-Application-iNeuron/stargazers)
+
+## 🔧 Forkers
+
+🍴 Thank you for forking our project! Your interest and contributions help us grow and improve. We appreciate your support!
+
+[![Forkers repo roster for @ChinmayKaitade/Book-Finder-Application-iNeuron](https://reporoster.com/forks/ChinmayKaitade/Book-Finder-Application-iNeuron)](https://github.com/ChinmayKaitade/Book-Finder-Application-iNeuron/network/members)
+
+---
+
 ## 📜 License
 
 📝 This project is licensed under the **Apache-2.0 License**.
