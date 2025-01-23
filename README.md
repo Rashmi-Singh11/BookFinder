@@ -121,14 +121,6 @@ This application uses the **Open Library API** to fetch book details.
 
 ## 🤝 Contributors
 
-Want to improve this project? Follow these steps:
-
-1. **Fork** this repository.
-2. **Create** a new branch (`git checkout -b feature-name`).
-3. **Make** your changes and commit (`git commit -m "Added a new feature"`).
-4. **Push** to the branch (`git push origin feature-name`).
-5. **Open** a **Pull Request**.
-
 [![All Contributors](https://img.shields.io/github/all-contributors/ChinmayKaitade/Book-Finder-Application-iNeuron?color=ee8449&style=flat-square)](#contributors)
 
 We Welcome Contributions! We are grateful for the valuable contributions from our community. Please See Our [CONTRIBUTING.md](CONTRIBUTING.md) for more Details.
