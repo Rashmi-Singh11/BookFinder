@@ -10,7 +10,7 @@ import { Link } from "react-router-dom"; // Importing Link component for navigat
 // Footer component to display contact information and links
 const Footer = () => {
   return (
-    <footer className="flex flex-col md:flex-row justify-between items-center py-14 px-4 md:px-24 bg-gray-800 text-white shadow-lg">
+    <footer className="flex flex-col justify-between items-center py-14 px-4 md:px-24 bg-gray-800 text-white shadow-lg">
       <div className="container mx-auto flex flex-col md:flex-row justify-between">
         {/* Contact Information Section */}
         <div className="footer-contact flex flex-col items-start mb-8 md:mb-0">
@@ -60,19 +60,28 @@ const Footer = () => {
           <ul className="flex flex-col md:flex-row gap-4 md:gap-14">
             <div>
               <li>
-                <Link to="/about" className="cursor-pointer text-gray-200">
+                <Link
+                  to="/about"
+                  className="cursor-pointer text-gray-200 hover:text-purple-500 transition-all"
+                >
                   About Us
                 </Link>
               </li>
 
               <li>
-                <Link to="#" className="cursor-pointer text-gray-200">
+                <Link
+                  to="#"
+                  className="cursor-pointer text-gray-200 hover:text-purple-500 transition-all"
+                >
                   Contact Us
                 </Link>
               </li>
 
               <li>
-                <Link to="#" className="cursor-pointer text-gray-200">
+                <Link
+                  to="#"
+                  className="cursor-pointer text-gray-200 hover:text-purple-500 transition-all"
+                >
                   FAQ
                 </Link>
               </li>
@@ -80,13 +89,19 @@ const Footer = () => {
 
             <div>
               <li>
-                <Link to="#" className="cursor-pointer text-gray-200">
+                <Link
+                  to="#"
+                  className="cursor-pointer text-gray-200 hover:text-purple-500 transition-all"
+                >
                   Privacy Policy
                 </Link>
               </li>
 
               <li>
-                <Link to="#" className="cursor-pointer text-gray-200">
+                <Link
+                  to="#"
+                  className="cursor-pointer text-gray-200 hover:text-purple-500 transition-all"
+                >
                   Terms and Conditions
                 </Link>
               </li>
@@ -103,19 +118,28 @@ const Footer = () => {
           <ul className="flex flex-col md:flex-row gap-4 md:gap-14">
             <div>
               <li>
-                <a href="#" className="cursor-pointer text-gray-200">
+                <a
+                  href="#"
+                  className="cursor-pointer text-gray-200 hover:text-purple-500 transition-all"
+                >
                   BookLibrary
                 </a>
               </li>
 
               <li>
-                <a href="#" className="cursor-pointer text-gray-200">
+                <a
+                  href="#"
+                  className="cursor-pointer text-gray-200 hover:text-purple-500 transition-all"
+                >
                   About
                 </a>
               </li>
 
               <li>
-                <a href="#" className="cursor-pointer text-gray-200">
+                <a
+                  href="#"
+                  className="cursor-pointer text-gray-200 hover:text-purple-500 transition-all"
+                >
                   Blog
                 </a>
               </li>
@@ -123,19 +147,38 @@ const Footer = () => {
 
             <div>
               <li>
-                <a href="#" className="cursor-pointer text-gray-200">
+                <a
+                  href="#"
+                  className="cursor-pointer text-gray-200 hover:text-purple-500 transition-all"
+                >
                   Become an affiliate
                 </a>
               </li>
 
               <li>
-                <a href="#" className="cursor-pointer text-gray-200">
+                <a
+                  href="#"
+                  className="cursor-pointer text-gray-200 hover:text-purple-500 transition-all"
+                >
                   Help
                 </a>
               </li>
             </div>
           </ul>
         </section>
+      </div>
+
+      {/* Centering the copyrights section */}
+      <div id="copyrights" className="text-center mt-8 md:-mb-8">
+        <h3 className="text-gray-200">
+          © Copyrights. All Rights Reserved | Made by ❤️‍🔥 with{" "}
+          <Link
+            to="https://chinmaykaitadeportfolio.vercel.app/"
+            className="font-semibold hover:text-purple-500 transition-all"
+          >
+            Chinmay Kaitade
+          </Link>
+        </h3>
       </div>
     </footer>
   );
