@@ -73,8 +73,28 @@ Ensure your system meets these requirements:
 
 ## 🎥 Live Demo and Video Walkthrough
 
-- **🔗 Live Application**: [Visit Book Finder App](https://bookfinder.chinmaykaitade.com)
+- **🔗 Live Application**: [Visit Book Finder App](https://bookfinderapplication.vercel.app/)
 - **🎬 Video Walkthrough**: [Watch on YouTube](https://youtube.com/your-video-link)
+
+---
+
+Here's the updated section with HLD, LLD, Wireframe, and PPT documentation links added:
+
+---
+
+## 📂 Documentation
+
+- **📘 High-Level Design (HLD)**: [View HLD](https://drive.google.com/file/d/1xRrRd98X2PHhi-YTbuihfW6aomLEaSlP/view?usp=drive_link)  
+  _A comprehensive overview of the system architecture and design decisions._
+
+- **📙 Low-Level Design (LLD)**: [View LLD](https://drive.google.com/file/d/1DwXW5Y_0iI--ye-IQXSEXzUTcLT5Uisb/view?usp=drive_link)  
+  _Detailed technical specifications for components, APIs, and system flow._
+
+- **📐 Wireframe**: [View Wireframe](https://drive.google.com/file/d/1z16sU_GnIMsM7nwaIUpByKK3MsqiuHw2/view?usp=drive_link)  
+  _Visual representation of the application's layout and navigation._
+
+- **📊 Presentation (PPT)**: [View PPT](https://drive.google.com/file/d/1teQVUjh1uefotRc8tXM3SlSl9WMgU-KW/view?usp=drive_link)  
+  _Summary of the application's features, architecture, and development process._
 
 ---
 
