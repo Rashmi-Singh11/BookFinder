@@ -1,7 +1,7 @@
 import React, { useState, useContext, useEffect, useCallback } from "react";
 
 // Base URL for fetching books from Open Library API
-const URL = "http://openlibrary.org/search.json?title=";
+const URL = "https://openlibrary.org/search.json?title=";
 
 // Create a context for the application
 const AppContext = React.createContext();
