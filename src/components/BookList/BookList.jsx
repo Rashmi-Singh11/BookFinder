@@ -14,7 +14,7 @@ const BookList = () => {
       ...singleBook,
       id: singleBook.id.replace("/works/", ""), // Removing "/works/" from the book ID
       cover_img: singleBook.cover_id // Constructing the cover image URL or using a default image if not available
-        ? `https://covers.openlibrary.org/b/id/${singleBook.cover_id}-L.jpg`
+        ? `https://covers.openlibrary.org/b/id/${singleBook.cover_id}.jpg`
         : coverImg,
     };
   });
