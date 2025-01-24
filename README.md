@@ -7,10 +7,10 @@
 	<h1>Book Finder Application</h1>
     <img src="https://img.shields.io/badge/Book%20Finder%20App-React%20%7C%20Tailwind%20CSS%20%7C%20Open%20Library%20API-blueviolet?style=for-the-badge&logo=react" />
 	<p>
-		<a name="stars"><img src="https://img.shields.io/github/stars/ChinmayKaitade/Book-Finder-Application-iNeuron?style=for-the-badge"></a>
-		<a name="forks"><img src="https://img.shields.io/github/forks/ChinmayKaitade/Book-Finder-Application-iNeuron?logoColor=green&style=for-the-badge"></a>
-		<a name="contributions"><img src="https://img.shields.io/github/contributors/ChinmayKaitade/Book-Finder-Application-iNeuron?logoColor=green&style=for-the-badge"></a>
-		<a name="license"><img src="https://img.shields.io/github/license/ChinmayKaitade/Book-Finder-Application-iNeuron?style=for-the-badge"></a>
+		<a name="stars"><img src="https://img.shields.io/github/stars/ChinmayKaitade/30Days-JavaScript-Challenge?style=for-the-badge"></a>
+		<a name="forks"><img src="https://img.shields.io/github/forks/ChinmayKaitade/30Days-JavaScript-Challenge?logoColor=green&style=for-the-badge"></a>
+		<a name="contributions"><img src="https://img.shields.io/github/contributors/ChinmayKaitade/30Days-JavaScript-Challenge?logoColor=green&style=for-the-badge"></a>
+		<a name="license"><img src="https://img.shields.io/github/license/ChinmayKaitade/30Days-JavaScript-Challenge?style=for-the-badge"></a>
 	</p>
 	<h4>Show Your Support By Giving a ⭐ to this Repository</h4>
 </div>
@@ -122,8 +122,6 @@ This application uses the **Open Library API** to fetch book details.
 ## 🤝 Contributions
 
 We Welcome Contributions! We are grateful for the valuable contributions from our community. Please See Our [CONTRIBUTING.md](CONTRIBUTING.md) for more Details.
-
-## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
