@@ -80,6 +80,9 @@ Ensure your system meets these requirements:
 
 ## 📂 Documentation
 
+- **📜 System Architecture**: [View Architecture](https://drive.google.com/file/d/1Geu6qTh-CJnK2zKRvVhjMBt9nQPbKeyF/view?usp=drive_link)  
+  _Overview of the system's structure, including components and interactions._
+
 - **📘 High-Level Design (HLD)**: [View HLD](https://drive.google.com/file/d/1xRrRd98X2PHhi-YTbuihfW6aomLEaSlP/view?usp=drive_link)  
   _A comprehensive overview of the system architecture and design decisions._
 
@@ -89,7 +92,7 @@ Ensure your system meets these requirements:
 - **📐 Wireframe**: [View Wireframe](https://drive.google.com/file/d/1z16sU_GnIMsM7nwaIUpByKK3MsqiuHw2/view?usp=drive_link)  
   _Visual representation of the application's layout and navigation._
 
-- **📊 Presentation (PPT)**: [View PPT](https://drive.google.com/file/d/1teQVUjh1uefotRc8tXM3SlSl9WMgU-KW/view?usp=drive_link)  
+- **📊 Project Report (DPR)**: [View PPT](https://drive.google.com/file/d/1teQVUjh1uefotRc8tXM3SlSl9WMgU-KW/view?usp=drive_link)  
   _Summary of the application's features, architecture, and development process._
 
 ---
@@ -115,7 +118,7 @@ npm install
 npm run dev
 ```
 
-🚀 Open [http://localhost:3000](http://localhost:3000) in your browser.
+🚀 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
