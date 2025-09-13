@@ -15,7 +15,7 @@
 	<h4>Show Your Support By Giving a ⭐ to this Repository</h4>
 </div>
 
-This is a frontend project for the **Book Finder Application** developed as part of my internship at **Physics Wallah Pvt. Ltd.** The application allows users to search for books and get details about them using the **Open Library API**. The frontend is built using **React** and styled with **Tailwind CSS**.
+This is a frontend project for the **Book Finder Application** .** The application allows users to search for books and get details about them using the **Open Library API**. The frontend is built using **React** and styled with **Tailwind CSS**.
 
 ## 🚀 Features
 
