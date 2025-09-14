@@ -71,9 +71,9 @@ Ensure your system meets these requirements:
 
 ---
 
-## 🎥 Live Demo and Video Walkthrough
+##  Live Demo 
 
-- **🔗 Live Application**: [Visit Book Finder App](https://rashmisingh-book-finder-three-opal.vercel.app/)
+- **🔗 Live Application**: [Visit Book Finder App](https://rashmi-book-finder-y4qk.vercel.app/)
 
 ---
 
